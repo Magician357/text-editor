@@ -1,0 +1,15 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "simple rich text editor i guess",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magician357",
+  "license": "MIt",
+  "devDependencies": {
+    "electron": "^31.0.1"
+  }
+}
